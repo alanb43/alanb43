@@ -25,7 +25,7 @@ I'm a senior Engineering Student @ the University of Michigan, Ann Arbor. I am m
   - EECS 449: Conversational Artificial Intelligence (Capstone)
   - [Winter Semester] EECS 483: Compiler Construction
   - [Winter Semester] EECS 489: Computer Networking
-  - [Winter Semester] EECS 486: Web Search & Info Retrieval
+  - [Winter Semester] EECS 598: Software Engineering & Cognition (Graduate course)
 - 🪴 Courses I've taken in the past include:
   - EECS 203: Discrete Math
   - EECS 280: Intro Data Structures
