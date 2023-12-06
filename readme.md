@@ -4,6 +4,7 @@
 
 I'm an April 2023 graduate in computer science + applied statistics from the University of Michigan. I've been learning to program for a couple of years, taking on various software engineering roles along the way (most recent highest):
 
+* 🚚 [Amazon, full-time](https://amazon.com)
 * 💜 [PixieBrix](https://www.pixiebrix.com/)
 * 🔥 [Amazon](https://amazon.com)
 * 🌱 [Humana](https://humana.com)
