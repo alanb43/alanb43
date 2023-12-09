@@ -10,8 +10,6 @@ I'm an April 2023 graduate in computer science + applied statistics from the Uni
 * 🌱 [Humana](https://humana.com)
 * 💊 [Acuitii](https://www.acuitii.life/app)
 
-Between May and August of this year, I'll be backpacking somewhere in Europe. I can't wait to share once I get back!
-
 While you're here, check out a few projects I've pinned below. You can also:
 * Contact / hire me: ab43work@gmail.com
 * Learn more about me: [alanbergsneider.com](https://alanbergsneider.com)
