@@ -11,5 +11,5 @@ I'm an April 2023 graduate in computer science + applied statistics from the Uni
 * 💊 [Acuitii](https://www.acuitii.life/app)
 
 While you're here, check out a few projects I've pinned below. You can also:
-* Contact / hire me: ab43work@gmail.com
+* Contact / hire me: bergsneideralan@gmail.com
 * Learn more about me: [alanbergsneider.com](https://alanbergsneider.com)
